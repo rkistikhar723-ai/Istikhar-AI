@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ISTIKHAR AI</string>
+    <string name="accessibility_service_label">ISTIKHAR AI Automation Service</string>
+    <string name="accessibility_service_description">अनुमति मिलने पर सक्रिय स्क्रीन से टेक्स्ट पढ़ने और अधिकृत यूआई एक्शन निष्पादित करने के लिए उपयोग किया जाता है। संवेदनशील डेटा कभी एकत्र नहीं किया जाता।</string>
+    <string name="confirmation_title">संवेदनशील कार्रवाई की पुष्टि (Confirmation Required)</string>
+    <string name="confirmation_confirm">स्वीकार करें (Allow)</string>
+    <string name="confirmation_cancel">रद्द करें (Cancel)</string>
+    <string name="loading_text">ISTIKHAR AI लोड हो रहा है...</string>
+</resources>

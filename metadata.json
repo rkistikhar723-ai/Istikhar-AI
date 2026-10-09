@@ -1,0 +1,8 @@
+{
+  "name": "ISTIKHAR AI",
+  "description": "Premium Android-first personal AI assistant prototype with elegant black and gold design, voice command pipeline, task planning lifecycle, and modular automation layers.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

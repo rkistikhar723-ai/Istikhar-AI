@@ -1,0 +1,10 @@
+<resources>
+    <style name="Theme.IstikharAI" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/gold_primary</color>
+        <item name="colorPrimaryVariant">@color/gold_light</item>
+        <item name="colorOnPrimary">@color/bg_primary</color>
+        <item name="android:statusBarColor">@color/bg_primary</item>
+        <item name="android:navigationBarColor">@color/bg_primary</item>
+        <item name="android:windowBackground">@color/bg_primary</item>
+    </style>
+</resources>
